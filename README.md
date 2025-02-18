@@ -1,6 +1,8 @@
 <h1 align="center"> Compass UOL | Udemy Business </h1>
 <p align="center"> AWS SPRINGBOOT | Atividade 05 </p>
 
+<img src="https://github.com/LukeCesar7/SP_SpringBoot_AWS_kafka_producer-consumer/blob/main/BannerA.png">
+
 ### Desafio: Comunicação Assíncrona entre Microserviços com Mensageria e Logs com Log4j2
 
 <hr>
